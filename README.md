@@ -7,4 +7,4 @@ This version can be found in "variantseeker_without_metaviralSPAdes".
 2) Another version without metaviralSPAdess/metaSPAdes to lower memory consumtion and to run data that has only single-reads. 
 This version can be found in "variantseeker_for_single-reads_and_without_metaviralSPAdes".
 
-Read more about requirments and installations in "https://github.com/Amanj1/variantSeeker" and the same instructions applies but without metaviralSPAdess/metaSPAdes.
+Read more about requirments and installations in https://github.com/Amanj1/variantSeeker and the same instructions applies but without metaviralSPAdess/metaSPAdes.
