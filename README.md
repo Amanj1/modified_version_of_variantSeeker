@@ -1,7 +1,7 @@
 ## modified_version_of_variantSeeker
 
 #### Two modified versions of varaintSeeker 
-1. One version is without metaviralSPAdess/metaSPAdes to lower memory consumption. just as a reminder, this version of the variantSeeker pipeline requires both paired-reads and single-reads, i.e. a total of 3 files for each sample.
+1. One version is without metaviralSPAdess/metaSPAdes to lower memory consumption. Just as a reminder, this version of the variantSeeker pipeline requires both paired-reads and single-reads, i.e. a total of 3 files for each sample.
 This version can be found in "variantseeker_without_metaviralSPAdes".
 
 2. Another version without metaviralSPAdess/metaSPAdes to lower memory consumption and to run data that has only single-reads. 
